@@ -6,7 +6,7 @@ https://www.indobenchmark.com/
 BERT model yang digunakan pada penelitian ini dapat dilihat secara detail pada link berikut
 https://huggingface.co/indobenchmark/indobert-base-p1
 
-Penelitian ini menggunakan Dataset hasil scraping secara mandiri pada ulusan Google Play dengan bahasa Indonesia
+Penelitian ini menggunakan Dataset hasil scraping secara mandiri pada ulusan Google Play dengan bahasa Indonesia dengan jumlah data 3963 kalimat.
 Dataset dibagi menjadi 3 data yaitu, data train, data test dan data valid, dengan rasio 60% : 20% : 20%.
 
 ## Detail Device yang digunakan :
