@@ -16,3 +16,7 @@ Dataset dibagi menjadi 3 data yaitu, data train, data test dan data valid, denga
 4.	Hardisk 1 TB
 5.	SSD 120 GB
 
+## Tentang indoNLU 
+IndoNLU adalah sebuah koleksi sumber untuk riset dalam topik Natural Language Understanding (NLU) untuk Bahasa Indonesia dengan 12 aplikasi. Kami menyediakan kode untuk mereproduksi hasil dan model besar yang sudah dilatih sebelumnya (IndoBERT and IndoBERT-lite) yang dilatih dengan kumpulan tulisan berisi sekitar 4 miliar kata (Indo4B) dan lebih dari 20 GB dalam ukuran data teks. Proyek ini awalnya dimulai dari kerjasama antara universitas dan industri, seperti Institut Teknologi Bandung, Universitas Multimedia Nusantara, The Hong Kong University of Science and Technology, Universitas Indonesia, Gojek, dan Prosa.AI.
+
+IndoNLU telah diterima oleh AACL-IJCNLP 2020 dan Anda dapat menemukan detailnya di paper kami https://www.aclweb.org/anthology/2020.aacl-main.85.pdf.
